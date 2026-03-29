@@ -1,0 +1,12 @@
+{
+  "name": "certifydeck",
+  "version": "1.0.0",
+  "description": "Free certification course discovery platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
