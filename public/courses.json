@@ -698,9 +698,7 @@
     "link": "https://www.theforage.com/simulations/salesforce/admin-job-simulation-n4wg",
     "trending": false,
     "featured": false
-  }
-]
-,
+  },
   {
     "id": 51,
     "title": "Introduction to Data Science",
@@ -1400,4 +1398,7 @@
     "link": "https://www.cloudskillsboost.google/",
     "trending": true,
     "featured": true
-  }
+  },
+]
+   
+ 
