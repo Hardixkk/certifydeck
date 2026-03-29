@@ -310,13 +310,13 @@ function selectAmount(btn, amount) {
 }
 
 function handleDonate() {
-  showToast('💙 Thank you! UPI: certifydeck@upi  |  Amount: ₹' + selectedAmount);
+  showToast('💙 Thank you! UPI: 9097589071@amazonpay |  Amount: ₹' + selectedAmount);
 }
 
 function copyUPI() {
-  navigator.clipboard.writeText('certifydeck@upi')
+  navigator.clipboard.writeText('9097589071@amazonpay')
     .then(() => showToast('✅ UPI ID copied!'))
-    .catch(() => showToast('UPI ID: certifydeck@upi'));
+    .catch(() => showToast('UPI ID: 9097589071@amazonpay'));
 }
 
 // ════════════════════════════════════════════════════════════
