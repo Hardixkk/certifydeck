@@ -327,7 +327,7 @@
     "platform": "Khan Academy",
     "platformLogo": "khan",
     "category": "Data & AI",
-    "description": "Learn to query databases using SQL — one of the most in-demand skills in data, analytics, and backend development.",
+    "description": "Learn to query databases using SQL \u2014 one of the most in-demand skills in data, analytics, and backend development.",
     "duration": "5 hours",
     "level": "Beginner",
     "badge": false,
@@ -397,7 +397,7 @@
     "platform": "EC-Council CodeRed",
     "platformLogo": "eccouncil",
     "category": "Cybersecurity",
-    "description": "Introduction to digital forensics — collecting, preserving, and analyzing digital evidence after incidents.",
+    "description": "Introduction to digital forensics \u2014 collecting, preserving, and analyzing digital evidence after incidents.",
     "duration": "15 hours",
     "level": "Beginner",
     "badge": true,
@@ -477,7 +477,7 @@
   },
   {
     "id": 35,
-    "title": "TCS iON Career Edge – Young Professional",
+    "title": "TCS iON Career Edge \u2013 Young Professional",
     "platform": "TCS iON",
     "platformLogo": "tcs",
     "category": "Govt Skills",
@@ -589,7 +589,7 @@
   },
   {
     "id": 43,
-    "title": "NPTEL – Programming in Java",
+    "title": "NPTEL \u2013 Programming in Java",
     "platform": "NPTEL (IIT Kharagpur)",
     "platformLogo": "nptel",
     "category": "Programming",
@@ -603,7 +603,7 @@
   },
   {
     "id": 44,
-    "title": "NPTEL – Database Management Systems",
+    "title": "NPTEL \u2013 Database Management Systems",
     "platform": "NPTEL (IIT Madras)",
     "platformLogo": "nptel",
     "category": "Data & AI",
@@ -1009,7 +1009,7 @@
   },
   {
     "id": 73,
-    "title": "BCG Data Science & Analytics",
+    "title": "BCG Data Science and Analytics",
     "platform": "BCG Forage",
     "platformLogo": "bcg",
     "category": "Data & AI",
@@ -1303,7 +1303,7 @@
   },
   {
     "id": 94,
-    "title": "NPTEL — Soft Skills",
+    "title": "NPTEL Soft Skills",
     "platform": "NPTEL (IIT Roorkee)",
     "platformLogo": "nptel",
     "category": "Govt Skills",
@@ -1398,7 +1398,5 @@
     "link": "https://www.cloudskillsboost.google/",
     "trending": true,
     "featured": true
-  },
+  }
 ]
-   
- 
