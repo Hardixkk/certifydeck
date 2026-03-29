@@ -25,23 +25,15 @@ const LEVEL_CLASS = {
 // ════════════════════════════════════════════════════════════
 // LOAD COURSES FROM API
 // ════════════════════════════════════════════════════════════
+
 async function loadAllCourses() {
   try {
-    // Try API first (when npm start is running)
-    const response = await fetch('/api/courses');
-    const data = await response.json();
-    allCourses = data.courses;
+    const response = await fetch('courses.json');
+    allCourses = await response.json();
     filteredCourses = allCourses;
   } catch (err) {
-    // Fallback — read courses.json directly (for Live Server)
-    try {
-      const response = await fetch('courses.json');
-      allCourses = await response.json();
-      filteredCourses = allCourses;
-    } catch (err2) {
-      allCourses = [];
-      filteredCourses = [];
-    }
+    allCourses = [];
+    filteredCourses = [];
   }
 }
 
